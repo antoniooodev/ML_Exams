@@ -42,7 +42,7 @@ pdflatex exams.tex
 
 📄 Here’s a preview of the compiled document:
 
-![Exam Cover](figures/exam_cover.png)
+![Exam Cover](images/cover.pdf)
 
 For the full document, check [**exams.pdf**](exams.pdf).
 
@@ -95,4 +95,3 @@ This repository is licensed under the **MIT License**. You are free to use, modi
 ---
 
 🎯 **If you find this project useful, don't forget to ⭐ star the repository!** 🚀🔗
- 
