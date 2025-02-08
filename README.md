@@ -42,7 +42,7 @@ pdflatex exams.tex
 
 📄 Here’s a preview of the compiled document:
 
-![Exam Cover](images/cover.pdf)
+![Exam Cover](images/cover.png)
 
 For the full document, check [**exams.pdf**](exams.pdf).
 
